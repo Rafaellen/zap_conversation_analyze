@@ -19,7 +19,8 @@ Para instalar as bibliotecas necessárias, você pode usar o pip:
 
 ```bash
 pip install pandas matplotlib
+```
 
-### ⚠️ Atenção!
+##⚠️ Atenção!
 
 - Verifique se o arquivo TXT está no mesmo diretório do script Python ou forneça o caminho completo para o arquivo TXT no código, linha 126.
